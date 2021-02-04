@@ -7,7 +7,8 @@
 ## Contents at a Glance.
 * [About.](#about)
 * [Documentation.](#documentation)
-* [Node JS Commands.](commands.md)
+* [Node Commands.](commands.md)
+* [Node Version Manager.](nvm.md)  
 * [Help.](#help)
 
 
